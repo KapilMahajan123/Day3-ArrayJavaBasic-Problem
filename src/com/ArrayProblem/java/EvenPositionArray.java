@@ -19,8 +19,8 @@ public class EvenPositionArray {
 			    	for(int i = 1; i<arr.length; i= i+2) {
 					System.out.println(arr[i]);  //print arr[i]
 		
-		
 		}
+		
 	}
 	
 }
