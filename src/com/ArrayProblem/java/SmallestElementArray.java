@@ -18,7 +18,7 @@ public class SmallestElementArray {
 
 	          min = arr[i];
               return min;
-     }
+         }
 	 public static void main(String[] args){
 
 	System.out.println("smallest in given array is : " + smallest());          // priniting smallest number
