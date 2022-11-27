@@ -21,6 +21,7 @@ public class SecondLargestElementArray {
 		
 		Arrays.sort(a);     //sorted method
 		System.out.print("The Second Largest Number: " +a[num-2]);  //printed the result
+		
 	}
 
 }
