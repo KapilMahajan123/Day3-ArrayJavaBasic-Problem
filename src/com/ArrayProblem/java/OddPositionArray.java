@@ -18,6 +18,7 @@ public class OddPositionArray {
 				for(int i = 0; i<arr.length; i= i+2) {
 					System.out.println(arr[i]);
 				}
+		
 		}
 		
 
