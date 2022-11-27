@@ -18,9 +18,9 @@ public class DublicateElementsArray {
           for(int j = i + 1; j < array.length; j++) {  
              if(array[i] == array[j])  
                  System.out.println(array[j]);  
-          }  
-       } 
+             }  
+        } 
           
-	}
+    }
 
 }
