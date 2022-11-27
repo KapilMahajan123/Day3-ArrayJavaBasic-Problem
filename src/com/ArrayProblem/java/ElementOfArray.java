@@ -22,6 +22,6 @@ public class ElementOfArray {
 		 */		
 		System.out.println(Arrays.toString(arr));
 		
-	}
+      }
 
 }
